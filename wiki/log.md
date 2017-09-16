@@ -53,6 +53,7 @@ http://retired.beyondlogic.org/keyboard/keybrd.htm
 
 https://opencores.org/project,ps2
 
+http://www.eecg.toronto.edu/~jayar/ece241_08F/AudioVideoCores/ps2/ps2.html
 
 
 -----
