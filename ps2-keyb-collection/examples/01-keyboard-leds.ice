@@ -117,6 +117,22 @@
             "width": 96,
             "height": 96
           }
+        },
+        {
+          "id": "2a7713d4-2ded-4639-9816-c6cd7c399c1a",
+          "type": "basic.info",
+          "data": {
+            "info": "Prueba de lectura del teclado PS/2\nControlador de bajo nivel: todos los datos \nrecibidos se muestran por los leds",
+            "readonly": true
+          },
+          "position": {
+            "x": -336,
+            "y": -16
+          },
+          "size": {
+            "width": 352,
+            "height": 64
+          }
         }
       ],
       "wires": [
@@ -155,8 +171,8 @@
     },
     "state": {
       "pan": {
-        "x": 470,
-        "y": 151.5
+        "x": 522,
+        "y": 103.5
       },
       "zoom": 1
     }
